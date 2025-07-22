@@ -51,7 +51,7 @@ Some major takeaways from the Power BI dashboard:
 
 **- Default Analysis**: Defaults were more frequent among self-employed individuals and lower-income brackets.
 
-** - Demographics & Loan Behavior:**
+**- Demographics & Loan Behavior:** 
 
 Younger age groups (20–30) had higher application rates.
 
