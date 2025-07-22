@@ -1,22 +1,6 @@
 # Bank Loan Report
 
 
-
-
-🛠️ Technology Stack
-Power BI Desktop – Data visualization and dashboard creation
-
-Power Query – Data cleaning and transformation
-
-DAX (Data Analysis Expressions) – Custom calculations and KPIs
-
-Excel/CSV Files – Initial data source (if applicable)
-
-
-
-
-
-
 ##  🧠 Project Overview
  This Power BI project provides an analytical overview of bank loan data, aiming to extract actionable insights about loan approvals, defaults, and customer demographics. The report supports decision-makers in identifying key trends and potential risk factors, enabling better lending strategies.This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
 
@@ -63,17 +47,23 @@ The loan data for this project is sourced from an internal banking database, cap
 ## 🎯 Project Motivation
 With increasing non-performing assets in the banking sector, there’s a need for data-driven lending decisions. This project was created to:
 
-Explore which factors influence loan approval and default.
+- Explore which factors influence loan approval and default.
 
-Empower banks to create risk profiles for applicants.
+- Empower banks to create risk profiles for applicants.
 
-Help develop targeted marketing strategies for loan products.
+- Help develop targeted marketing strategies for loan products.
 
 
 
-## Tools
-- **SQL:** The project leverages SQL queries to retrieve, process, and analyze data database.
-- **Tableau:** Dynamic and interactive visualizations are crafted in Tableau to present key findings effectively.
+## 🛠️ Technology Stack
+Power BI Desktop – Data visualization and dashboard creation
+
+Power Query – Data cleaning and transformation
+
+DAX (Data Analysis Expressions) – Custom calculations and KPIs
+
+Excel/CSV Files – Initial data source (if applicable)
+
 
 
 ## Dashboards
