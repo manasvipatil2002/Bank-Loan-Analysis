@@ -2,7 +2,7 @@
 
 
 
-## <div style="display:flex;align-items:center;font-family:Arial,sans-serif;font-size:72px;"><img src="image/bank.jpeg" alt="Bank Icon" style="height:80px;margin-right:10px;"><span>Bank Loan Report</span></div>
+## <div style="display:flex;align-items:center;font-family:Arial,sans-serif;font-size:100px;"><img src="image/bank.jpeg" alt="Bank Icon" style="height:80px;margin-right:10px;"><span>Bank Loan Report</span></div>
 
 
 ##  🧠 Project Overview
