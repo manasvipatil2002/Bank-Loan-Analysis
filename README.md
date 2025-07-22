@@ -23,17 +23,17 @@ Before creating visualizations, the dataset underwent several cleaning and prepr
  ## 📌 Key Insights & Analysis
 Some major takeaways from the Power BI dashboard:
 
-**- Loan Approval Trends:** Highest approval rates seen in applicants with steady employment and higher incomes.
+** - Loan Approval Trends:** Highest approval rates seen in applicants with steady employment and higher incomes.
 
-**- Default Analysis**: Defaults were more frequent among self-employed individuals and lower-income brackets.
+** - Default Analysis**: Defaults were more frequent among self-employed individuals and lower-income brackets.
 
-**- Demographics & Loan Behavior:** 
+** - Demographics & Loan Behavior:** 
 
 Younger age groups (20–30) had higher application rates.
 
 Married applicants had a higher chance of loan approval.
 
-**- Loan Amount & Term Trends:**
+** - Loan Amount & Term Trends:**
 
 Longer loan terms had higher default risks.
 
