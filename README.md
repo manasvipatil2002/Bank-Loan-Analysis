@@ -2,25 +2,6 @@
 
 
 
-📌 Key Insights & Analysis
-Some major takeaways from the Power BI dashboard:
-
-Loan Approval Trends: Highest approval rates seen in applicants with steady employment and higher incomes.
-
-Default Analysis: Defaults were more frequent among self-employed individuals and lower-income brackets.
-
-Demographics & Loan Behavior:
-
-Younger age groups (20–30) had higher application rates.
-
-Married applicants had a higher chance of loan approval.
-
-Loan Amount & Term Trends:
-
-Longer loan terms had higher default risks.
-
-Median loan amount skewed higher for urban applicants.
-
 🎯 Project Motivation
 With increasing non-performing assets in the banking sector, there’s a need for data-driven lending decisions. This project was created to:
 
@@ -62,6 +43,25 @@ Before creating visualizations, the dataset underwent several cleaning and prepr
 - Income-to-Loan Ratio
 
 - Removed Duplicates: Ensured each record represented a unique loan applicant.
+
+ ## 📌 Key Insights & Analysis
+Some major takeaways from the Power BI dashboard:
+
+**- Loan Approval Trends:** Highest approval rates seen in applicants with steady employment and higher incomes.
+
+**- Default Analysis**: Defaults were more frequent among self-employed individuals and lower-income brackets.
+
+**- Demographics & Loan Behavior:**
+
+Younger age groups (20–30) had higher application rates.
+
+Married applicants had a higher chance of loan approval.
+**
+- Loan Amount & Term Trends:**
+
+Longer loan terms had higher default risks.
+
+Median loan amount skewed higher for urban applicants.
 
 
 ## Data Source
