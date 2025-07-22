@@ -49,20 +49,19 @@ Excel/CSV Files – Initial data source (if applicable)
 
  ## 🧹 Data Cleaning & Preparation
 Before creating visualizations, the dataset underwent several cleaning and preprocessing steps:
+- Handled Missing Values: Rows with critical missing fields were removed or imputed.
 
-Handled Missing Values: Rows with critical missing fields were removed or imputed.
+- Data Type Corrections: Ensured consistent formats for date, numerical, and categorical columns.
 
-Data Type Corrections: Ensured consistent formats for date, numerical, and categorical columns.
+- Feature Engineering: Added calculated columns such as:
 
-Feature Engineering: Added calculated columns such as:
+- Loan Approval Rate
 
-Loan Approval Rate
+- Default Status Indicator
 
-Default Status Indicator
+- Income-to-Loan Ratio
 
-Income-to-Loan Ratio
-
-Removed Duplicates: Ensured each record represented a unique loan applicant.
+- Removed Duplicates: Ensured each record represented a unique loan applicant.
 
 
 ## Data Source
