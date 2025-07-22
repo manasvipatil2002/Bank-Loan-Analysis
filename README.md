@@ -1,7 +1,8 @@
 
 
-# <img src="image/bank.jpeg" width=100 height = 100>    Bank Loan Report 
 
+
+## <div style="display:flex;align-items:center;font-family:Arial,sans-serif;font-size:24px;"><img src="image/bank.jpeg" alt="Bank Icon" style="height:40px;margin-right:10px;"><span>Bank Loan Report</span></div>
 
 
 ##  🧠 Project Overview
