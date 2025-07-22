@@ -1,6 +1,6 @@
-# Bank Loan Report
 
-# <img src="image/bank.jpeg" width=100 height = 100>    Bank Loan Report
+
+# <img src="image/bank.jpeg" width=100 height = 100>    < Bank Loan Report align=centre >
 
 
 
