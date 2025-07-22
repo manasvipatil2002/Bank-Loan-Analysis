@@ -2,14 +2,6 @@
 
 
 
-🎯 Project Motivation
-With increasing non-performing assets in the banking sector, there’s a need for data-driven lending decisions. This project was created to:
-
-Explore which factors influence loan approval and default.
-
-Empower banks to create risk profiles for applicants.
-
-Help develop targeted marketing strategies for loan products.
 
 🛠️ Technology Stack
 Power BI Desktop – Data visualization and dashboard creation
@@ -67,6 +59,16 @@ Median loan amount skewed higher for urban applicants.
 ## Data Source
 The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank's lending activities
 [data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true).
+
+## 🎯 Project Motivation
+With increasing non-performing assets in the banking sector, there’s a need for data-driven lending decisions. This project was created to:
+
+Explore which factors influence loan approval and default.
+
+Empower banks to create risk profiles for applicants.
+
+Help develop targeted marketing strategies for loan products.
+
 
 
 ## Tools
