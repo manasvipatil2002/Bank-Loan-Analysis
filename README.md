@@ -56,13 +56,13 @@ With increasing non-performing assets in the banking sector, there’s a need fo
 
 
 ## 🛠️ Technology Stack
-Power BI Desktop – Data visualization and dashboard creation
+- Power BI Desktop – Data visualization and dashboard creation
 
-Power Query – Data cleaning and transformation
+- Power Query – Data cleaning and transformation
 
-DAX (Data Analysis Expressions) – Custom calculations and KPIs
+- DAX (Data Analysis Expressions) – Custom calculations and KPIs
 
-Excel/CSV Files – Initial data source (if applicable)
+- Excel/CSV Files – Initial data source (if applicable)
 
 
 
