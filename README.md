@@ -1,5 +1,4 @@
-
-## <div style="display:flex;align-items:center;font-family:Arial,sans-serif;"><img src="image/bank.jpeg" alt="Bank Icon" style="height:40px;margin-right:10px;"><span style="font-size:36px;">Bank Loan Report</span></div>
+**Bank Loan Report**
 
 
 
@@ -128,22 +127,6 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 
 Each field plays a crucial role in managing loans, assessing borrower risk, structuring loan terms, and making informed lending decisions.
 
-## Implementation
-The project required importing the dataset from Excel into SQL Server for analysis and visualization using Tableau. Dashboards were crafted using Tableau's powerful visualization tools and analytical capabilities, aligning with the specified requirements in the problem statement and utilizing the data dictionary to ensure precise field utilization.
-
-## Data Validation
-To ensure the accuracy and integrity of the data reflected in the dashboards, a thorough data validation process was undertaken. After the dataset was loaded into Tableau and from SQL Server database, the following measures were implemented:
-- SQL Query Verification: Direct queries were executed against the SQL Server database to retrieve raw data. This dataset served as a benchmark, validating the accuracy and consistency of the information presented in the dashboards.
-
-- Data Consistency Checks: The results from Tableau were compared against the SQL query results to ensure consistency. This step was critical to confirm that the data transformation and logic applied within Tableau did not alter the actual figures.
-
-- KPI Logic Validation: The calculations and logic underlying the Key Performance Indicators (KPIs) were thoroughly reviewed. SQL scripts were employed to independently replicate the KPI calculations, ensuring the accuracy and reliability of the computations performed in Tableau.
-
-
-- Cross-Verification with Source Data: The transformed data in Tableau was cross-verified with the source data from the SQL Server database. This step was crucial to confirm that all data transformations, including filtering, grouping, and aggregation, were correctly applied.
-
-
-Through these validation steps, the project ensured that the Tableau dashboards accurately represent the data, and the insights derived are based on truthful and unaltered information. This rigorous validation process enhances the credibility of the dashboards and reinforces confidence in the data-driven decisions made using these tools.
 
 ## Conclusion
 By incorporating robust data validation techniques, the Bank Loan Dashboard project establishes itself as a reliable and authoritative source for monitoring the bank’s loan activities. The project not only presents critical data through intuitive visualizations but also guarantees the precision of the information displayed, enabling the bank to make informed and assured strategic decisions with confidence.
