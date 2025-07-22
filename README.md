@@ -84,7 +84,7 @@ Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specif
 
 ### Dashboard 2: Overview
 
-!['Overview image'](/Images/Overview.png)
+<img src="" width=1000>
 
 The Overview Dashboard visually represents various loan-related metrics through different chart types:
 - Monthly Trends by Issue Date 
@@ -98,7 +98,7 @@ These visualizations aid in identifying trends, seasonal patterns, and the distr
 
 ### Dashboard 3: Details
 
-!['Details image'](/Images/Details.png)
+<img src="" width=1000>
 
 The Details Dashboard offers a detailed view of the loan data, providing a comprehensive and user-friendly interface for accessing vital loan metrics, borrower profiles, and performance data.
 
