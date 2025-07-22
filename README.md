@@ -1,7 +1,7 @@
 # Bank Loan Report
 
 
-<img src="image/5.JPG" width=1000>
+<img src="image/5.JPG" width=500 height = 500>
 
 ##  🧠 Project Overview
  This Power BI project provides an analytical overview of bank loan data, aiming to extract actionable insights about loan approvals, defaults, and customer demographics. The report supports decision-makers in identifying key trends and potential risk factors, enabling better lending strategies.This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
