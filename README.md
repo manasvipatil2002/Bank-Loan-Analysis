@@ -98,7 +98,7 @@ These visualizations aid in identifying trends, seasonal patterns, and the distr
 
 ### Dashboard 3: Details
 
-<img src="" width=1000>
+<img src="image/3.JPG" width=1000>
 
 The Details Dashboard offers a detailed view of the loan data, providing a comprehensive and user-friendly interface for accessing vital loan metrics, borrower profiles, and performance data.
 
