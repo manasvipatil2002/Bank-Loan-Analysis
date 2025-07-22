@@ -2,23 +2,6 @@
 
 
 
-🧹 Data Cleaning & Preparation
-Before creating visualizations, the dataset underwent several cleaning and preprocessing steps:
-
-Handled Missing Values: Rows with critical missing fields were removed or imputed.
-
-Data Type Corrections: Ensured consistent formats for date, numerical, and categorical columns.
-
-Feature Engineering: Added calculated columns such as:
-
-Loan Approval Rate
-
-Default Status Indicator
-
-Income-to-Loan Ratio
-
-Removed Duplicates: Ensured each record represented a unique loan applicant.
-
 📌 Key Insights & Analysis
 Some major takeaways from the Power BI dashboard:
 
@@ -63,6 +46,23 @@ Excel/CSV Files – Initial data source (if applicable)
 
 ##  🧠 Project Overview
  This Power BI project provides an analytical overview of bank loan data, aiming to extract actionable insights about loan approvals, defaults, and customer demographics. The report supports decision-makers in identifying key trends and potential risk factors, enabling better lending strategies.This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
+
+ ## 🧹 Data Cleaning & Preparation
+Before creating visualizations, the dataset underwent several cleaning and preprocessing steps:
+
+Handled Missing Values: Rows with critical missing fields were removed or imputed.
+
+Data Type Corrections: Ensured consistent formats for date, numerical, and categorical columns.
+
+Feature Engineering: Added calculated columns such as:
+
+Loan Approval Rate
+
+Default Status Indicator
+
+Income-to-Loan Ratio
+
+Removed Duplicates: Ensured each record represented a unique loan applicant.
 
 
 ## Data Source
