@@ -69,8 +69,8 @@ With increasing non-performing assets in the banking sector, there’s a need fo
 ## Dashboards
 ### Dashboard 1: Summary
 
+<img src="image/1.JPG" width=1000>
 
-!['Summary image'](/Images/Summary.png)
 
 The Summary Dashboard captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's health and lending strategy impact. It includes the following KPIs:
 - Total Loan Applications (MTD and MoM)
